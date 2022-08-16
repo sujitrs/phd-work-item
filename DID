@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:54:01.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W2IiE5GXWA0aaOXK2FcH" version="20.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T11:56:56.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-TDhuW9whuiKglNfjQMr" version="20.2.4" type="github" pages="2">
   <diagram id="IFQbSofPuveiaGfuoGea" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-2" value="Verifiable Credentials" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5RSifk5EGrUX5XjCFbeq-3" target="5RSifk5EGrUX5XjCFbeq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-3" value="DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-4" value="DID Document" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=65;entryDy=15;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5RSifk5EGrUX5XjCFbeq-3" target="5RSifk5EGrUX5XjCFbeq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-6" value="DID URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
