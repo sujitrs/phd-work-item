@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T12:06:53.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vBpC0Pl4qwLIiGdVakHE" version="20.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T12:08:22.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Nutkmv9_p2HxszcJtnQM" version="20.2.4" type="github" pages="2">
   <diagram id="IFQbSofPuveiaGfuoGea" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5RSifk5EGrUX5XjCFbeq-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="218" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5RSifk5EGrUX5XjCFbeq-2" value="Verifiable Credentials" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -45,7 +45,7 @@
         <mxCell id="5RSifk5EGrUX5XjCFbeq-3" value="DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5RSifk5EGrUX5XjCFbeq-4" value="DID Document" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-4" value="DID Document" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5RSifk5EGrUX5XjCFbeq-5" value="resolves to" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=65;entryDy=15;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontStyle=2" edge="1" parent="1" source="5RSifk5EGrUX5XjCFbeq-3" target="5RSifk5EGrUX5XjCFbeq-4">
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5RSifk5EGrUX5XjCFbeq-13" value="DID Subject" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="5RSifk5EGrUX5XjCFbeq-13" value="DID Subject" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="105" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5RSifk5EGrUX5XjCFbeq-14" value="DID Controller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
